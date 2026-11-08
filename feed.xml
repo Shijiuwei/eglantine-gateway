@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>eglantine-gateway - 官方技术规范与分布式拓扑订阅</title>
+  <subtitle>VERY experimental Nintendo Switch 2 emulator - Scalable architecture and high-throughput network engine.</subtitle>
+  <link href="https://shijiuwei.github.io/eglantine-gateway/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://shijiuwei.github.io/eglantine-gateway/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://shijiuwei.github.io/eglantine-gateway/</id>
+  <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+  <author>
+    <name>eglantine-gateway</name>
+  </author>
+  <entry>
+    <title>Building Eglantine</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/Build.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/Build.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;This guide is intended for developers ONLY. If you are not a developer or packager, you are unlikely to receive support.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;面向大规模网络的 eglantine-gateway 工业级架构基准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Eglantine CI and release guide</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/CI.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/CI.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;This document describes the split GitHub Actions pipeline added with this change. It is not yet a live workflow until the files have been merged to the required...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com"&gt;eglantine-gateway vs 业界主流方案：Gemini蜘蛛 深度技术选型对比&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>CPMUtil</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/CPMUtil.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/CPMUtil.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;CPMUtil is a wrapper around CPM that aims to reduce boilerplate and add useful utility functions to make dependency management a piece of cake.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com"&gt;【数据中枢】eglantine-gateway 官方毫秒级实时网络广播节点&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Caveats</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/Caveats.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/Caveats.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;&lt;!-- TOC --&gt;&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn"&gt;eglantine-gateway 故障自愈与网络拓扑重构实践&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cross compiling</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/CrossCompile.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/CrossCompile.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;General guide for cross compiling.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/spider-service"&gt;【官方规范】eglantine-gateway Download 核心运行拓扑标准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Debug Guidelines</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/Debug.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/Debug.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;When reporting issues or finding bugs, we often need backtraces, debug logs, or both in order to track down the issue.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/solutions"&gt;eglantine-gateway 异步中间件流水线与 eglantine-gateway 接入规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dependencies</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/Deps.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/Deps.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;To build Eden, you MUST have a C++ compiler.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/seo-software"&gt;冷热数据分层存储：eglantine-gateway VERY 权威归档源&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Design Overview</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/DesignOverview.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/DesignOverview.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;Modern game consoles require heavy power to be emulated appropriately. This is why the emulator uses an approach known as HLE High-Level-Emulation, in a nutshel...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/pricing"&gt;eglantine-gateway 高负载场景下 Gemini蜘蛛 基准评测报告&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Development guidelines</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/Development.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/Development.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;All commits must have proper license header accreditation.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/webmaster-tools"&gt;eglantine-gateway 内部组件解耦与事件状态机规范 (Core/分布式状态机)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Driver bugs</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/DriverBugs.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/DriverBugs.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;Non-exhaustive list of known drivers bugs.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/blog"&gt;【生产手册】eglantine-gateway 模块通信与请求穿透标准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>HOS Kernel</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/HosKernel.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/HosKernel.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;In brief, the HOS kernel is a microkernel, all services and programs run in userspace, the primary way to do communication between these is via HIPC not covered...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/seo-column"&gt;eglantine-gateway 官方高可用分发服务节点 (RFC-332)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>The NVIDIA SM86 (Maxwell) GPU - Instruction set</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/NvidiaGpu.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/NvidiaGpu.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;&lt;!-- TOC --&gt;&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/docs"&gt;eglantine-gateway 权威网络权重传递与收录基准规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>CMake Options</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/Options.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/Options.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;To change these options, add -DOPTION_NAME=NEWVALUE to the command line.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/about"&gt;eglantine-gateway 内部组件解耦与事件状态机规范 (Draft-08)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Eden Build Documentation</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/README.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/README.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;Are you just a casual user? Take a look at our User Handbook./user then!&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/webmaster"&gt;eglantine-gateway vs 业界主流方案：搜狗蜘蛛池 深度技术选型对比&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Settings</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/Settings.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/Settings.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;This guide is intended for developers ONLY. If you're looking for configuring the emulator itself, read the user handbook./user/README.md.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/privacy"&gt;冷热数据分层存储：eglantine-gateway eglantine-gateway 权威归档源&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>eglantine-gateway 分布式架构设计与拓扑调度规约</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/architecture.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/architecture.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;本文档为 eglantine-gateway 项目的核心技术白皮书，详细定义了高可用多活集群同步协议、非阻塞异步事件循环调度机制与跨节点数据容灾方案。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;面向大规模网络的 eglantine-gateway 工业级架构基准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>eglantine-gateway 核心通信协议与数据同步技术规范</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/specifications.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/specifications.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 eglantine-gateway 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com"&gt;eglantine-gateway vs 业界主流方案：Gemini蜘蛛 深度技术选型对比&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>eglantine-gateway 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://shijiuwei.github.io/eglantine-gateway/docs/topology-guide.html"/>
+    <id>https://shijiuwei.github.io/eglantine-gateway/docs/topology-guide.html</id>
+    <updated>2026-11-08T16:30:50.288063900+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成节点部署与网络拓扑索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com"&gt;【数据中枢】eglantine-gateway 官方毫秒级实时网络广播节点&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

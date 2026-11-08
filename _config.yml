@@ -1,0 +1,5 @@
+title: "eglantine-gateway"
+description: "VERY experimental Nintendo Switch 2 emulator - Scalable architecture and high-throughput network engine."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
